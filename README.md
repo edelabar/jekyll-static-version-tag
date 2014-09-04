@@ -49,3 +49,7 @@ This does not actually create a file named `main.20140903232620.js` in the Jekyl
 ```
 
 For more information on these settings, see [the `.htaccess` file from the HTML5 Boilerplate project](https://github.com/h5bp/html5-boilerplate/blob/master/dist/.htaccess).  
+
+## Credits
+
+This tag is very loosely based on the source code in this article [Blogging With Jekyll, Haml, Sass, and Jammit](http://mikeferrier.com/2011/04/29/blogging-with-jekyll-haml-sass-and-jammit/) by Mike Ferrier.  
